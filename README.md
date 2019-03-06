@@ -1,4 +1,4 @@
-#### 中文文档: https://docs.huihoo.com/apache/mesos/mesos-cn/primer/Mesos-of-Getting-Started.html   
+#### 中文文档: https://docs.huihoo.com/apache/mesos/mesos-cn/
 ##### 理论
 ```bash
 Mesos Master 通过 Zookeeper 搭建 HA，理论上只有一台提供服务;
